@@ -1,0 +1,65 @@
+body{
+    background-image:url(./images/images.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+  font-stretch:expanded ;
+  background-color: rgb(243, 171, 14);}
+
+img{
+   width: 300px;
+   height: 300px;
+   border-radius: 200px;}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border-style:dashed;
+    width: 30%;
+    color: rgb(58, 2, 2);}
+
+div{
+    border: 1px solid black;
+    width: 30%;
+    text-transform: capitalize;}
+
+.one{
+    list-style-image: url(./images/download.png);
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 330px;
+    background-color:rgba(12, 12, 12,0.5) ;}
+
+.two{
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 50px 10px 120px;
+    background-color:rgba(12, 12, 12,0.5);}
+
+.two ul li{
+    list-style-type: square;}
+
+.two ol li{
+    list-style-image: url(./images/images\ \(1\).png);}
+
+.three{
+    float: left;
+    height: 190px;
+    padding: 25px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(12, 12, 12,0.5);}
+
+.three ul li{
+ list-style-type: lower-roman;}
+
+ .three ol li{
+    list-style-type: upper-roman;}
+
+.footer{
+    margin-top: 270px;
+    margin-left: 200px;
+    height: 60px;
+    width: 50%;
+    background-color:black;
+    padding:  0px 2px 0px 20px;
+    color: white;}
